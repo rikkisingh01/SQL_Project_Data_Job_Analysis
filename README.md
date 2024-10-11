@@ -96,7 +96,7 @@ ON sj.skill_id = sd.skill_id
 
 ORDER BY salary_year_avg DESC
 ```
-![Top Paying Skills](Assets\2_top_paying_skills.png)
+![Top Paying Skills](Assets/2_top_paying_skills.png)
 *Bar graph visualizing the top skills for Data Analyst roles; ChatGTP generated this graph from the SQL query results*
 
 - SQL is the most frequently listed skill, appearing in 8 job postings.
