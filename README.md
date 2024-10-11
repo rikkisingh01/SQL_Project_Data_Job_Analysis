@@ -50,7 +50,6 @@ ORDER BY jf.salary_year_avg DESC
 
 LIMIT 10
 ```
-![Test1:](Assets\1_top_paying_roles.png)
 ![Test2:](Assets/1_top_paying_roles.png)
 
 ![Top Paying Roles](Assets/1_top_paying_roles.png)
