@@ -50,7 +50,7 @@ ORDER BY jf.salary_year_avg DESC
 
 LIMIT 10
 ```
-![Top Paying Roles](Assets\1_top_paying_roles.png)
+![Top Paying Roles]([Assets/1_top_paying_roles.png])
 *Bar graph visualizing the salary for the top 10 salaries for Data Analyst roles; ChatGTP generated this graph from the SQL query results*
 
 - Higher-paying roles: Positions like "Data Analyst" and "Director of Analytics" offer significantly higher average salaries compared to other roles in the dataset.
